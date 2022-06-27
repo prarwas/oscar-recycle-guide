@@ -9,7 +9,7 @@ Original file is located at
 
 flag = False
 while(not flag):
-  item=input("what are you getting rid of? \n A) Paper \n B) Plastic/Metal/Glass \n C) Flammable Items \n D) Clothing \n E) Electronics \nInput: " )
+  item=input("What are you getting rid of? \n A) Paper \n B) Plastic/Metal/Glass \n C) Flammable Items \n D) Clothing \n E) Electronics \nInput: " )
   item = item.upper()
   
 #Paper ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
